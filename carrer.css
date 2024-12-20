@@ -1,0 +1,195 @@
+.anc1{
+    font-family: 'Times New Roman', Times, serif;
+    color: #1c1d1d;
+    font-weight: bold;
+}
+
+#head1{
+    margin-left: 80px;
+    border-bottom: 0px;
+}
+
+#head1:hover{
+    border-bottom: 2px solid #2dc1cc;
+}
+
+#head2{
+    margin-left: 85px;
+    border-bottom: 0px;
+}
+
+#head2:hover{
+    border-bottom: 2px solid #2dc1cc;
+}
+
+#head3{
+    margin-left: 85px;
+    border-bottom: 0px;
+}
+
+#head3:hover{
+    border-bottom: 2px solid #2dc1cc;
+}
+
+#head4{
+    margin-left: 85px;
+    border-bottom: 0px;
+}
+
+#head4:hover{
+    border-bottom: 2px solid #2dc1cc;
+}
+
+#head5{
+    margin-left: 85px;
+    border-bottom: 0px;
+}
+
+#head5:hover{
+    border-bottom: 2px solid #2dc1cc;
+}
+
+#head6{
+    margin-left: 80px;
+    border: none;
+}
+
+#head6:hover{
+    color: #e7cddb;
+    background-color: #2dc1cc;
+}
+
+.contents{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #7a7779;
+}
+
+#content1{
+    color: #2dc1cc;
+    font-size: 30px;
+}
+
+#content2{
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.care{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.it{
+    color: #2dc1cc;
+}
+
+.age{
+    font-weight: bold;
+}
+
+.due{
+    font-size: 18px;
+    color: #7a7779;
+}
+
+#team{
+    width: 28%;
+    margin-left: 40%;
+    border-radius: 30px;
+}
+
+#team:hover{
+    color: #1c1d1d;
+    background-color: #0b1bf7;
+}
+
+.current{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#job1{
+    color: #2dc1cc;
+}
+
+#job2{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.abo{
+    text-decoration: none;
+    color: #1c1d1d;
+    width: 100%;
+    height: 100%;
+}
+
+.design{
+    border: 1px solid black;
+    border: none;
+    margin-left: -40%;
+    border-radius: 35px;
+    background-color: #d8a720;
+}
+
+.full{
+    font-size: 20px;
+}
+
+.net{
+    font-size: 20px;
+}
+
+.as{
+    background-color: #64a09d;
+}
+
+.we{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#make1{
+    color: #585758;
+    font-size: 20px;
+}
+
+#make2{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#make3{
+    color: #666465;
+    font-size: 20px;
+}
+
+.our{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.hand{
+    color: #12257a;
+}
+
+.lac{
+    color: #666465;
+    font-size: 20px;
+}
+
+#footer{
+    font-size: 20px;
+}
+
+#all{
+    color: #313753;
+}
+
+#all1{
+    color: #585758;
+}
+
+#all2:hover{
+    color: #000000;
+    background-color: #0011ff;
+}
+
+
